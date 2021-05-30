@@ -1,14 +1,16 @@
 {
   "learningTrack": "JavaScript",
   "userName": "Evgeniy",
-  "taskCount": 2,
+  "taskCount": 3,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
     "1xbpd3lq1agsjbvxkrwi94hqa2zibanjxhhh",
-    "2r53gskzbmmke9wishg9dznp11jpbue6eeya"
+    "2r53gskzbmmke9wishg9dznp11jpbue6eeya",
+    "pam59qf4wpjo4u9bg5qsvoh1b9676voioj6q"
   ],
   "userSubmittedFiles": [
     "task1.js",
-    "task2.js"
+    "task2.js",
+    "task3.js"
   ]
 }
